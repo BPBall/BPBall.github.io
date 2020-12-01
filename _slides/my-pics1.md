@@ -7,6 +7,7 @@ loop: true
 speed: 500
 pause: 6000
 mode: fade
+adaptiveHeight: False
 verticalHeight: 650
 ---
 
