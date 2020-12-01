@@ -8,7 +8,7 @@ speed: 500
 pause: 6000
 mode: fade
 adaptiveHeight: False
-verticalHeight: 650
+verticalHeight: 900
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
