@@ -4,9 +4,8 @@ title: DREAM FOR YOURSELF
 item: 1
 auto: true
 loop: true
-speed: 10000
+speed: 20000
 pauseOnHover: true
-AdaptiveHeight: true
 
 ---
 
