@@ -5,8 +5,6 @@ item: 1
 auto: true
 loop: true
 speed: 20000
-
-
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
