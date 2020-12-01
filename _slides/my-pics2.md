@@ -1,11 +1,11 @@
 ---
 layout: iframe
-title: My pictures gallery
+title: TIME IS A FLAT CIRCLE
 item: 1
 auto: true
 loop: true
-speed: 1000
-pause: 4000
+speed: 500
+pause: 5000
 pager: "false"
 controls: "false"
 style:
