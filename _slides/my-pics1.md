@@ -6,9 +6,8 @@ auto: False
 loop: true
 speed: 500
 pause: 6000
-adaptiveHeight: true
 mode: fade
-verticalHeight: 600
+verticalHeight: 650
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
