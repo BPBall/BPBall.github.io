@@ -1,0 +1,20 @@
+<div id=”gallery”>{% for image in include.images %}
+  <img class=”mySlides” src=”https://BPBall.github.io/dundee1.jpg”/>
+  <img class=”mySlides” src=”https://BPBall.github.io/dundee2.jpg”/>
+  <img class=”mySlides” src=”https://BPBall.github.io/dundee3.jpg”/>
+  <img class=”mySlides” src=”https://BPBall.github.io/dundee4.jpg”/>
+<button onclick=”plusDivs(-1)”>❮</button>
+<button onclick=”plusDivs(1)”>❯</button>
+</div>
+<script>
+var slideIndex = 1;showDivs(slideIndex);
+function plusDivs(n) {showDivs(slideIndex += n);}
+function showDivs(n) {
+var i;
+var x = document.getElementsByClassName(“mySlides”);
+if (n > x.length) {slideIndex = 1}
+if (n < 1) {slideIndex = x.length}
+for (i = 0; i < x.length; i++) {x[i].style.display = “none”;}
+x[slideIndex-1].style.display = “block”;
+}
+</script>
