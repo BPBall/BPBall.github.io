@@ -2,11 +2,12 @@
 layout: iframe
 title: DREAM FOR YOURSELF
 item: 1
-auto: true
+auto: False
 loop: true
-speed: 400
+speed: 500
 pause: 6000
 adaptiveHeight: true
+mode: fade
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
