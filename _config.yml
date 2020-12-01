@@ -1,11 +1,12 @@
-defaults:
-  -
-    scope:
-      path: "_slides" 
-    values:
-      layout: "iframe"
+theme: jekyll-theme-slate
+title: Let Your Dreams Come True!
+description: Let Dundee take control
 
-collections:
-  slides:
-    output: true
 
+slideShow:
+- "http://BPBall.github.io/Slideshow/Dundee1.JPG"
+- "http://BPBall.github.io/Slideshow/dundee2.JPG"
+- "http://BPBall.github.io/Slideshow/dundee3.JPG"
+- "http://BPBall.github.io/Slideshow/dundee4.JPG"
+- "http://BPBall.github.io/Slideshow/dundee5.JPG"
+- "http://BPBall.github.io/Slideshow/dundee6.JPG"
