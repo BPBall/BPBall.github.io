@@ -4,7 +4,8 @@ title: DREAM FOR YOURSELF
 item: 1
 auto: true
 loop: true
-speed: 20000
+speed: 400
+pause: 6000
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
