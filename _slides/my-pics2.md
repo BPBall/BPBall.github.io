@@ -21,9 +21,11 @@ style:
       left: -100%
 ---
 
-* ![A nice pic of mine](my-pics1/pic1.jpg)
-* ![Another nice pic of mine](my-pics1/pic2.jpg)
-* ![Another nice pic of mine](my-pics1/pic3.jpg)
-* ![Another nice pic of mine](my-pics1/pic4.jpg)
+* ![Your Dreams Wait](my-pics1/Dundee1.jpg)
+* ![Fantastic Wildlife](my-pics1/dundee2.jpg)
+* ![Native Culture](my-pics1/dundee3.jpg)
+* ![Lively Nightlife](my-pics1/dundee4.jpg)
+* ![Love Will Find You](my-pics1/dundee5.jpg)
+* ![Shopping, Why Not?](my-pics1/dundee6.jpg)
 
 
