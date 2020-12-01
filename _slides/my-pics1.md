@@ -6,6 +6,7 @@ auto: true
 loop: true
 speed: 400
 pause: 6000
+adaptiveHeight: true
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
