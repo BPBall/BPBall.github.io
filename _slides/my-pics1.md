@@ -6,7 +6,8 @@ auto: true
 loop: true
 speed: 10000
 pauseOnHover: true
-adaptiveHeight: true
+AdaptiveHeight: true
+
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
@@ -15,11 +16,7 @@ adaptiveHeight: true
 * ![Lively Nightlife](my-pics1/dundee4.JPG)
 * ![Love Will Find You](my-pics1/dundee5.JPG)
 * ![Shopping, Why Not?](my-pics1/dundee6.JPG)
-* 
-
-
-
-  # LET US HELP MAKE YOUR DREAMS COME TRUE
+* # LET US HELP MAKE YOUR DREAMS COME TRUE
 
   Reachout and Learn to [DREAM](http://www.dundee.com).
   
