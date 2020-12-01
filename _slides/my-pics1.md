@@ -4,6 +4,9 @@ title: DREAM FOR YOURSELF
 item: 1
 auto: true
 loop: true
+speed: 7000
+pauseOnHover: true
+AdaptiveHeight: true
 ---
 
 * ![Your Dreams Wait](my-pics1/Dundee1.JPG)
