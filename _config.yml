@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
-title: Let Your Dreams Come True!
-description: Let Dundee take control
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
