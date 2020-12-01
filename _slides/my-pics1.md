@@ -5,7 +5,7 @@ item: 1
 auto: true
 loop: true
 speed: 20000
-pauseOnHover: true
+
 
 ---
 
