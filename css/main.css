@@ -1,3 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,600,700,900);
+
+@rhino: #323b40;
+@rhinoMid: #4f585e;
+@teal: #0096a1;
+@tealMid: #0ebac7;
+@red: #fc625c;
+@amber: #fdbc40;
+@green: #34c748;
+@offWhite: #e9eaea;
+
 *{padding: 0; margin: 0; box-sizing: border-box;}
 body{height: 700px;}
 header {
@@ -120,16 +131,6 @@ nav {
 	border-width: 1px;
 	padding: 7px;
 }
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,600,700,900);
-
-@rhino: #323b40;
-@rhinoMid: #4f585e;
-@teal: #0096a1;
-@tealMid: #0ebac7;
-@red: #fc625c;
-@amber: #fdbc40;
-@green: #34c748;
-@offWhite: #e9eaea;
 
 html {
   background: @rhinoMid;
