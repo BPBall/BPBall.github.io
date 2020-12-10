@@ -89,7 +89,7 @@ nav {
 	width: 800px;
 }
 .slide {
-	box-shadow: 0px 2px 2px #E9EBEC;
+	box-shadow: 0px 2px 2px @rhinoMid;
 	margin-bottom: 10px;
 }
 .slideshow-iframe {
@@ -125,7 +125,7 @@ nav {
 	width: 100%;
 	margin: auto;
 	display: block;
-	border-color: #CCC;
+	border-color: @rhinoMid;
 	box-sizing: border-box;
 	border-style: solid;
 	border-width: 1px;
