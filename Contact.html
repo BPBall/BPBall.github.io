@@ -2,7 +2,14 @@
 layout: secondary
 title: Your Dream Awaits
 ---
-
+.clicker
+{
+  font-size: 20px;
+  color: #0c79b0;
+  border: 3pt ridge lightgrey
+  background-color: #c3ced4
+}
+  
 <!DOCTYPE html>
 <html>
 <body>
@@ -13,11 +20,11 @@ title: Your Dream Awaits
 Name or Call Sign: 
 <input type="text" name="name"><br>
 Contact E-mail for correspondence:  
-<input type="text" name="mail"><br> <br>
-Tell us something we should know:<br>
-<input type="text" name="comment" size="200"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
+<input type="text" name="mail" size= "40"><br> <br>
+
+  <textarea name="comments" rows="10" cols="50">Tell us something we should know</textarea><br><br>
+<input type="submit" value="Send" class="clicker"/>
+<input type="reset" value="Reset" class="clicker"/>
 </form>
   </p>
 </body>
