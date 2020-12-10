@@ -17,8 +17,3 @@ verticalHeight: 900
 * ![Lively Nightlife](my-pics1/dundee4.JPG)
 * ![Love Will Find You](my-pics1/dundee5.JPG)
 * ![Shopping, Why Not?](my-pics1/dundee6.JPG)
-
-  
-  
-
-
